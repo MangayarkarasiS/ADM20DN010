@@ -1,2 +1,2 @@
 # ADM20DN010
-I am goinf to store files related to this batch
+I am going to store files related to this batch. It contains files like MVC, C#

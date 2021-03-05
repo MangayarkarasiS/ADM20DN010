@@ -21,7 +21,7 @@ namespace ConsoleApp1
             this.Brand = brand;
             this.ReleaseYear = releaseYear;
         }
-
+        //change in revisedcopy 
     }
 
 

@@ -21,6 +21,10 @@ namespace ConsoleApp1
             this.Brand = brand;
             this.ReleaseYear = releaseYear;
         }
+        public void addvehicle()
+        {
+            Console.WriteLine("Added vehicle");
+        }
 
     }
 
